@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments resolution for the speedy sending an Army into the North the Earl of Essex to be the generall, and that the Earl of Bedford be generall of the horse : also, the trve relation of a fight performed at New-Castle, between the Earle of New-Castle with 500 cavaleers, and the town and colliers of New-Castle who have been much prejudised by the Earls placing a garrison there where was 11 of the cavaleers killed, and the rest fled without hurt to say of the towne.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22199</idno><idno type="EEBO-CITATION">12223993</idno>
+  <idno type="VID">197328</idno>
+  <idno type="EEBO-PROQUEST">2240930706</idno>
+  
+            <idno type="STC">Wing E2149</idno>
+            <idno type="OCLC">12223993</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E107, no 4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments resolution for the speedy sending an Army into the North the Earl of Essex to be the generall, and that the Earl of Bedford be generall of the horse : also, the trve relation of a fight performed at New-Castle, between the Earle of New-Castle with 500 cavaleers, and the town and colliers of New-Castle who have been much prejudised by the Earls placing a garrison there where was 11 of the cavaleers killed, and the rest fled without hurt to say of the towne.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Tomlinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="geographic_name">Newcastle upon Tyne (England) --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197328:1"/>
+            <p>THE PARLIAMENTS RESOLUTION, For the speedy sending an Army in<g ref="char:EOLhyphen"/>to the <hi>North:</hi> The Earl of <hi>Essex</hi> to be the Generall; and that the Earl of <hi>Bedford</hi> be Generall of the Horse.</p>
+            <p>ALSO, THE TRVE RELATION of a Fight Performed at <hi>New-Castle,</hi> between the Earle of <hi>New-Castle</hi> with 500. Cavaleers, and the Town and Colli<g ref="char:EOLhyphen"/>ers of <hi>New-castle</hi> who have been much preju<g ref="char:EOLhyphen"/>dised by the Earls placing a Garrison there where was 11. of the Cavaleers killed, and the rest fled without hurt to any of the TOWNE.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered to be Printed and Published,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <add>11 July</add>
+                              </date>
+                           </dateline>
+                           <signed>Hen. Elsing. Cl. Parl. Do. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>G. Tomlinson,</hi> 1642.</p>
+            <pb facs="tcp:197328:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:197328:2"/>
+            <head>NEWCASTLES LAMENTATION, AND HULLS PRESERVATION.</head>
+            <head type="sub">Both occasioned by His <hi>Majesties</hi> Preparation of War which alreadie hath began in <hi>Newcastle</hi> on <hi>Monday</hi> the 16. of <hi>July,</hi> 1642.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ACcording to my Ingagements to your selfe formerly, after my love remem<g ref="char:EOLhyphen"/>bred. I thought good to advertise you of the newest, and true newes from the <hi>North,</hi> which through the Malignant Party and wicked Counsell about His Majestie, who have first diverted the Kings Majesty from his High Court of Parliament, and do daily persist to animate His Majesty and his good Subjects, to be raisers of a civill warre, which themselves have been the chief actors; and nothing is in their minds as can be thought, but to seek the ruining of this
+<pb n="2" facs="tcp:197328:3"/> Kingdome: And so is it at this time, that the Court of <hi>Yorke</hi> doth entertaine all sorts of Delin<g ref="char:EOLhyphen"/>quents, of whom, some by His Majesty have been Proclaimed Traitours, as the Lord <hi>Digby,</hi> and o<g ref="char:EOLhyphen"/>thers, and yet have made the Court of <hi>Yorke</hi> a san<g ref="char:EOLhyphen"/>ctuary of all Delinquents, against the justice and Priviledge of Parliament; to the great danger, not only of the disturbance, but even of the subver<g ref="char:EOLhyphen"/>sion of the originall constitution and frame of this Kingdome.</p>
+            <p>We credibly heare from <hi>New-Castle,</hi> that the Earle of <hi>New-Castle</hi> being sent by His Majestie, Marched with 500. men to place a Garrison more stronger for the defence therof, whom the Towns<g ref="char:EOLhyphen"/>men seeing their insolency and violence they com<g ref="char:EOLhyphen"/>mitted upon the Towne, making their will a Law, and taking mens goods <hi>nolens volens,</hi> the Towne and Colliers of <hi>New-Castle</hi> manfully resisted them, and made them Retreat out of their Bulwarks and out of the Town; and upon their resistance killed eleven of their men, but the Townsmen and Col<g ref="char:EOLhyphen"/>liers escaped without the losse or hurt of these bloudy minded Cavaleers: But we hear since, the Earle of <hi>New-Castle</hi> is gone back to <hi>Yorke</hi> for more strength, to go against the Inhabitants of <hi>New-Ca<g ref="char:EOLhyphen"/>stle;</hi> which if they should any wayes overcome them, the Citie of <hi>London</hi> is like to undergo great da<g ref="char:EOLhyphen"/>mage, it being the chiefest place for Sea-coale. Therefore 'tis very necessary and convenient, that the High Court of Parliament would take it into serious consideration, that their may some ayde be
+<pb n="3" facs="tcp:197328:3"/> sent to their reliefe. And indeed so is it in all the Northern parts of <hi>England;</hi> for every man is in feare, that is rich, of present surprizall, seeing a ci<g ref="char:EOLhyphen"/>vill War alreadie begun in many parts and Coun<g ref="char:EOLhyphen"/>ties of this Kingdome; as namely, at <hi>Leicester</hi> by Master <hi>Hastings,</hi> of whose successe he hath no great reason to boast; and also by the Lord <hi>Strange</hi> in <hi>Lancashire,</hi> against the whole County, but espe<g ref="char:EOLhyphen"/>cially against the Citie of <hi>Manchester;</hi> and like<g ref="char:EOLhyphen"/>wise now at <hi>New-Castle</hi> by the Earle of <hi>New-Castle;</hi> but their hopes are by the great mercie of God frustrate of what they thought ere this to have had possession of.</p>
+            <p>His Majestie is now at <hi>Beverley</hi> with a great Ar<g ref="char:EOLhyphen"/>mie of men, with an intention to take the Towne of <hi>Hull;</hi> and to that end hath imployed many men in worke to digge Trenches, and make Bulwarks to command the Town, and hath stopped the passage of all fresh-water for comming into <hi>Hull;</hi> but the whole County of <hi>Lincoln</hi> are very observant to Sir <hi>John Hotham,</hi> and the Parliaments desires, that they will spend their lives and estates, to maintaine that Town with all necessaries, against any opposi<g ref="char:EOLhyphen"/>tion, for the KING and Parliament. But the strength and scituation of that Town in such, that 40. thousand fighting men are not able to take it, if the hearts of them be true to their KING and Countrey, which are in the Town.</p>
+            <p>We hear newes to <hi>Yorke,</hi> that the Lord <hi>Strange</hi> hath fallen from his designs concernning the Com<g ref="char:EOLhyphen"/>mission of Array, and the placing of the Militia,
+<pb n="4" facs="tcp:197328:4"/> and will not do any thing contrary to Law, or that shall be prejudiciall to the Kingdome.</p>
+            <p>The Cavaleers are at <hi>Yorke</hi> very insolent, that men dare not without great feare of danger walke the Streets after Sun-set; for they will three or foure of them set upon one man, and take all that he hath, and wound him, and slash him with their swords, upon refusall to them, what is his own</p>
+            <p>They have here beene so presumptuous and op<g ref="char:EOLhyphen"/>posite to Justice, that upon <hi>Thursday</hi> night last, there was nine Cavaleers walked the streets of <hi>York</hi> seeking what prey they might devour to enrich their beastly and carnall lusts, though with the ut<g ref="char:EOLhyphen"/>ter impoverishing of whom they ransack, they met with three Gentle-men of note in the County of <hi>York,</hi> who came to <hi>York</hi> upon their occasions, they cowardly set upon them, with dam, and sinke them, they must have what money they had, or else they would make them a prey for the fowls of the ayre; but the Gentle-men being resolute, rather then they would thus be out-dared, they would en<g ref="char:EOLhyphen"/>danger themselves to resist their desires, which very manfully they did, &amp; cut two of them very shrewd<g ref="char:EOLhyphen"/>ly that tis thought they will never recover with life; the other seven being never a one free from some cut or other about them; they so manfully beha<g ref="char:EOLhyphen"/>ved themselves. The gentlemen being all of them in the Surgeons hands, and all something wounded, but in no danger of death. Four of the Cavaleers are taken and are in hold, but the favours they re<g ref="char:EOLhyphen"/>ceive from Court from the hands of Noble-men,
+<pb n="5" facs="tcp:197328:4"/>
+'tis thought will easily free them without any trou<g ref="char:EOLhyphen"/>ble at all, but a shew; which makes them to run on in these and the like courses of injustice and wic<g ref="char:EOLhyphen"/>kednesse, without the feare of God, or man. Thus desiring of the Lord, that he would please to put a period unto these cruell and civill Wars and di<g ref="char:EOLhyphen"/>stractions; and that it would please the Almighty God, who is the onely Governour and Ruler of of Kings; put it into the heart of our King, with an unanimous consent, to expose his evill Counsel<g ref="char:EOLhyphen"/>lours now about his Majestie, to the just censure of the high Court of Parlia. and himselfe joyn with them for the establishing of this kingdom in Peace.</p>
+            <p>Thus with my love to all my friends till the next conveniencie, I rest.</p>
+            <closer>
+               <signed>Yours, <hi>John Williamr.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_resolution">
+            <head>VOTES.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Martis.</hi> 12. July. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+               <lb/> THat an Army shall be forthwith raised for the safety of the Kings Person, defence of both Houses of Parliament, and of those who have obeyed their Orders and commands, and preserving of the true Religion, the Laws, Liberty and Peace of the Kingdom.</p>
+            <p>
+               <hi>Resolved upon, &amp;c.</hi>
+               <lb/> That the Earl of <hi>Essex</hi> shall be the Generall.</p>
+            <p>
+               <hi>Resolved upon the Question.</hi>
+               <lb/> That this House doth declare, that in this cause for the safety of the Kings Person, defence of both Houses of Parliament, and of those who have obey<g ref="char:EOLhyphen"/>ed their their Orders and Commands, and preser<g ref="char:EOLhyphen"/>ving
+<pb n="6" facs="tcp:197328:5"/> of the true Religion, the Lawes, Liberty and peace of the Kingdome, they will live and die with the Earl of <hi>Essex,</hi> whom they have nominated Ge<g ref="char:EOLhyphen"/>nerall in this Cause.</p>
+            <p>
+               <hi>Resolved, &amp;c.</hi>
+               <lb/> That a Petition shall be framed to move His Majesty to a good accord with his Parliament, to prevent a civill War.</p>
+            <p>The Petition being drawn, was agreed unto upon the Question, and with these Votes were presented unto the Lords. Who returned Answer, they did concur with the House of Commons, <hi>in omnibus.</hi>
+            </p>
+            <p>Whereupon both Houses ordered, that the Earl of <hi>Holland,</hi> Sir <hi>John Holland,</hi> and Sir <hi>Philip Staple<g ref="char:EOLhyphen"/>ton,</hi> should forthwith repair to <hi>Beverley,</hi> and pre<g ref="char:EOLhyphen"/>sent the Petition unto his Majestie.</p>
+            <p>The Message of the 11. of <hi>July</hi> came to the House of Peers, after this Petition was agreed on: being so full an Answer thereunto, as both Houses resolved to give no other Answer to that Message, but the said Petition.</p>
+            <p>
+               <hi>Resolved upon the Question,</hi>
+               <date>14. July. 1642.</date>
+               <lb/> That all the Members of this House that have subscribed for the bringing in of horse, money, or Plate, do bring in the same by Tuesday next, and that a Report be made then to the House who are defective herein.</p>
+            <p>
+               <hi>Resolved, &amp;c.</hi>
+               <lb/> That the Earle of <hi>Bedford</hi> shall be Generall of the Horse.</p>
+            <closer>
+               <signed>Hen. Elsing. Cl. Do. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
